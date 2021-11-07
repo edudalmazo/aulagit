@@ -1,2 +1,6 @@
 linha 1
+<<<<<<< HEAD
 linha 22 master 
+=======
+linha 22 hotfix
+>>>>>>> hotfix
